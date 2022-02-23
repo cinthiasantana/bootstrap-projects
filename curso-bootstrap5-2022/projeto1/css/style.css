@@ -71,7 +71,7 @@ a, i {
 
 .main-image {
     height: 400px;
-    background-image: url(../projeto1/img/maquete-de-quadros-na-sala-de-estar_23-2147968614.jpg);
+    background-image: url(../img/img-main.jpg);
     margin-bottom: 30px;
     position: relative;
 }
@@ -87,31 +87,34 @@ a, i {
 /* gallery */
 
 #img1 {
-    background-image: url(../projeto1/img/banheira-com-cortina-armario-e-chuveiro_176382-1749.jpg);
+    background-image: url(../img/img1.jpg);
 }
 
 #img2 {
-    background-image: url(../projeto1/img/banheira-com-cortina-armario-e-chuveiro_176382-1749.jpg);
+    background-image: url(../img/img2.jpg);
 }
 
 #img3 {
-    background-image: url(../projeto1/img/banheira-com-cortina-armario-e-chuveiro_176382-1749.jpg);
+    background-image: url(../img/img3.jpg);
+    background-position: bottom;
 }
 
 #img4 {
-    background-image: url(../projeto1/img/banheira-com-cortina-armario-e-chuveiro_176382-1749.jpg);
+    background-image: url(../img/img4.jpg);
+    background-position: bottom;
 }
 
 #img5 {
-    background-image: url(../projeto1/img/banheira-com-cortina-armario-e-chuveiro_176382-1749.jpg);
+    background-image: url(../img/img5.jpg);
 }
 
 #img6 {
-    background-image: url(../projeto1/img/banheira-com-cortina-armario-e-chuveiro_176382-1749.jpg);
+    background-image: url(../img/img6.jpg);
 }
 
 #img7 {
-    background-image: url(../projeto1/img/banheira-com-cortina-armario-e-chuveiro_176382-1749.jpg);
+    background-image: url(../img/img7.jpg);
+    background-position: bottom;
 }
 
 #gallery-container h1 {
